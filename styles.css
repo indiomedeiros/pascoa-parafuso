@@ -1,0 +1,173 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+/* Header Styles */
+header {
+  text-align: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 24px;
+  margin-top: 24px;
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .search-bar {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+}
+
+/* Product Card Styles */
+.product-card {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+}
+
+.product-card > img {
+  width: 100%;
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.product-card .details {
+  padding: 15px;
+}
+
+.product-card .title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.product-card .description {
+  font-size: 0.9em;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.product-card .price {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+/* Estilo para o preço */
+.price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #888;
+  font-size: 0.9em;
+}
+
+.new-price {
+  color: #28a745;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.product-card .buy-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.product-card .buy-button:hover {
+  background-color: #218838;
+}
+
+/* Menu de Categorias */
+.categories {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.categories ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.categories li {
+  display: inline;
+}
+
+.categories a {
+  text-decoration: none;
+  color: #f5f2f2;
+  font-weight: bold;
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.categories a:hover {
+  background-color: #333;
+  color: #9a604c;
+}
+
+/* Responsividade para telas menores */
+@media (max-width: 768px) {
+  .categories ul {
+    flex-direction: column; /* Alinha os itens verticalmente */
+    gap: 25px; /* Reduz o espaçamento entre os itens */
+  }
+
+  .categories a {
+    width: 100%; /* Faz os links ocuparem toda a largura */
+    text-align: center; /* Centraliza o texto */
+  }
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Lindor Singles 100g Dark",
+    "description": "Chocolate suíço amargo com recheio cremoso.",
+    "price": "R$14.99",
+    "oldPrice": "R$19.99",
+    "image": "./img/lindor_singles_100g_dark.webp",
+    "category": "amargo"
+  },
+  {
+    "title": "Lindor Singles 100g Avelã",
+    "description": "Chocolate suíço ao leite com pedaços de avelã e recheio cremoso.",
+    "price": "R$14.99",
+    "oldPrice": "R$19.99",
+    "image": "./img/lindor_singles_100g_avela.webp",
+    "category": "ao-leite"
+  },
+  {
+    "title": "Lindor Singles 100g Branco",
+    "description": "Chocolate suíço branco ao leite com recheio cremoso.",
+    "price": "R$14.99",
+    "oldPrice": "R$19.99",
+    "image": "./img/lindor_singles_100g_branco.jpg",
+    "category": "branco"
+  },
+  {
+    "title": "Lindt LINDOR MILK STICK ao leite com recheio cremoso 38g cada",
+    "description": "Chocolate suíço ao leite com recheio cremoso em formato de stick.",
+    "price": "R$9.99",
+    "oldPrice": "R$14.99",
+    "image": "./img/milk_stick_ao_leite.png",
+    "category": "ao-leite"
+  },
+  {
+    "title": "Teddy Bear ao Leite 40g",
+    "description": "Delicioso chocolate suíço ao leite em formato de ursinho.",
+    "price": "R$19.99",
+    "oldPrice": "R$24.99",
+    "image": "./img/teddy_leite_40g.webp",
+    "category": "ao-leite"
+  },
+  {
+    "title": "Teddy Bear ao Leite 100g ",
+    "description": "Ursinho de chocolate suíço ao leite com roupinha azul ou verde.",
+    "price": "R$39.99",
+    "oldPrice": "R$49.99",
+    "image": "./img/teddy_leite_100g.webp",
+    "category": "ao-leite"
+  },
+  {
+    "title": "Cornet LINDOR Bombons sortido 200g",
+    "description": "Bombons suíços sortidos com recheio cremoso.",
+    "price": "R$59.99",
+    "oldPrice": "R$69.99",
+    "image": "./img/bombom_sortido_200g.webp",
+    "category": "sortido"
+  },
+  {
+    "title": "Cat Tongues 106g",
+    "description": "Chocolate suíço ao leite em formato de línguas de gato.",
+    "price": "R$29.99",
+    "oldPrice": "R$34.99",
+    "image": "./img/cat_tongues_106g.jpg",
+    "category": "ao-leite"
+  },
+  {
+    "title": "Lindor Lata Coração Pequena 50g",
+    "description": "Lata em formato de coração com bombons suíços Lindor.",
+    "price": "R$49.99",
+    "oldPrice": "R$59.99",
+    "image": "./img/lata_coracao_50g.webp",
+    "category": "sortido"
+  },
+  {
+    "title": "Gold Bar Avelã 300g",
+    "description": "Chocolate suíço ao leite com avelãs inteiras.",
+    "price": "R$69.99",
+    "oldPrice": "R$79.99",
+    "image": "./img/gold_bar_300g.webp",
+    "category": "ao-leite"
+  },
+  {
+    "title": "Pralinas Master Pieces 350g",
+    "description": "Pralinas suíças sortidas com recheios especiais.",
+    "price": "R$89.99",
+    "oldPrice": "R$99.99",
+    "image": "./img/pralinas_master_350g.webp",
+    "category": "sortido"
+  },
+  {
+    "title": "Excellence 85% cacau 100g",
+    "description": "Chocolate suíço amargo com 85% de cacau.",
+    "price": "R$10.00",
+    "oldPrice": "R$34.99",
+    "image": "./img/85.webp",
+    "category": "85"
+  },
+  {
+    "title": "Excellence 78% cacau 100g",
+    "description": "Chocolate suíço amargo com 78% de cacau.",
+    "price": "R$12.00",
+    "oldPrice": "R$34.99",
+    "image": "./img/78.jpeg",
+    "category": "78"
+  },
+  {
+    "title": "Excellence 70% cacau 100g",
+    "description": "Chocolate suíço amargo com 70% de cacau.",
+    "price": "R$10.00",
+    "oldPrice": "R$34.99",
+    "image": "./img/70.webp",
+    "category": "70"
+  },
+  {
+    "title": "Creation Creme Brûlée 150g",
+    "description": "Chocolate suíço ao leite com recheio de creme brûlée.",
+    "price": "R$19.99",
+    "oldPrice": "R$29.99",
+    "image": "./img/brulee_150g.webp",
+    "category": "ao-leite"
+  },
+  {
+    "title": "Les Grandes Dark 150g 34% Hazelnuts",
+    "description": "Chocolate suíço amargo com avelãs inteiras e pedaços caramelizados.",
+    "price": "R$24.99",
+    "oldPrice": "R$34.99",
+    "image": "./img/dark_150g.png",
+    "category": "amargo"
+  },
+  {
+    "title": "Lindor Singles 100g",
+    "description": "Chocolate suíço ao leite com recheio cremoso.",
+    "price": "R$14.99",
+    "oldPrice": "R$19.99",
+    "image": "./img/singles_ao_leite.webp",
+    "category": "ao-leite"
+  }
+]

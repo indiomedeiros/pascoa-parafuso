@@ -34,3 +34,7 @@ Este é um projeto de e-commerce simples para exibição e venda de chocolates i
    ```bash
    git clone <url-do-repositorio>
    cd parafuso-pascoa
+
+![indiomedeiros github io_pascoa-parafuso_](https://github.com/user-attachments/assets/a045a8f7-0e55-4a8b-a64a-71f7ff0262ed)
+
+   

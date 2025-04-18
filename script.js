@@ -30,11 +30,11 @@ async function createProductCards(category = null) {
                 <span class="old-price">${product.oldPrice}</span>
                 <span class="new-price">${product.price}</span>
             </div>
-            <a href="https://wa.me/5571991706957?text=${encodeURIComponent(
+            <a href="https://wa.me/5573991477068?text=${encodeURIComponent(
                 `Oi Jéssica! Estou interessado(a) no chocolate ${product.title}. Poderia me informar como posso adquiri-lo?`
             )}" class="buy-button" target="_blank">
                 <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp Icon" style="width: 20px; vertical-align: middle; margin-right: 5px;">
-                Compre no WhatsApp
+                Compre pelo WhatsApp
             </a>
             </div>
         `;
